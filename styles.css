@@ -15,5 +15,5 @@ p {
   display: block;
   width: 900px;
   margin: 2px;
-  font: 15px Monaco,"Helvetica","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 15px "Helvetica","DejaVu Sans Mono","Bitstream Vera Sans Mono","Monaco",monospace;
 }
