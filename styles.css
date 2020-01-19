@@ -30,3 +30,7 @@ p {
   margin: 2px;
   font: 15px "Helvetica","DejaVu Sans Mono","Bitstream Vera Sans Mono","Monaco",monospace;
 }
+
+.inline {
+  display: inline-block;
+}
