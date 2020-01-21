@@ -34,3 +34,8 @@ p {
 .inline {
   display: inline-block;
 }
+
+.divider {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
