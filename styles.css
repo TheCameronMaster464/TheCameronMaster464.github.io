@@ -35,6 +35,12 @@ p {
   display: inline-block;
 }
 
+.inlinec { /* Stands for "Inline Center. Basically centers whatever it is, while making it inline, so it doesn't take up the whole line. */
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+} /* Not sure if this will work... */
+
 .divider {
   padding-top: 5px;
   padding-bottom: 5px;
